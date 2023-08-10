@@ -23,10 +23,12 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Neuro Lena                                
 your_link                                 : https://mentalfriend.org                    
 your_city                                 : Tel Aviv                                
-email_address                             : mentalfriendtest@gmail.com                                          
+email_address                             : mentalfriendtest@gmail.com
+facebook_username                         :                                           
 instagram_username                        : mentalfriendt
 twitter_username                          : mentalfriendt
 github_username                           : neuroLena
+youtube_username                          :
 mastodon_link                             : https://mastodon.social/@ebaehr
 
 
