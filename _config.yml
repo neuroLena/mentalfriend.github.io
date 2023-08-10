@@ -23,12 +23,10 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Neuro Lena                                
 your_link                                 : https://mentalfriend.org                    
 your_city                                 : Tel Aviv                                
-email_address                             : mentalfriendtest@gmail.com
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
+email_address                             : mentalfriendtest@gmail.com                                          
+instagram_username                        : mentalfriendt
+twitter_username                          : mentalfriendt
 github_username                           : neuroLena
-youtube_username                          :
 mastodon_link                             : https://mastodon.social/@ebaehr
 
 
@@ -36,35 +34,60 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Customizable tracker
-    description                           : Yo can track any symptoms, meds, habbits and factors!
+  - title                                 : Your Privacy Matters
+    description                           : With all calculations handled on your device, your information stays with you. No email or name required – simply set a nickname and password to start using the app. Your privacy is our commitment.
+    fontawesome_icon_name                 : magic
+
+      - title                             : Customizable tracker
+    description                           : Track What Matters to You - from symptoms and medications to habits and personal factors, our tracker is tailored to you.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Selfhelp
-    description                           : Verified tips&tricks for all known disorders!
+  - title                                 : Empower Yourself with Selfhelp
+    description                           : Discover verified tips, tricks, and skill programs to manage and overcome a wide range of complications.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Data insights
-    description                           : Data analysis and recommendations!
+  - title                                 : Unlock Insights Through Data
+    description                           : Dive into data-driven insights and recommendations designed to support your unique journey
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Crisis help
+  - title                                 : Crisis Support  When You Need It Most
+    description                           : AI-powered alerts for critical states and comprehensive assistance to help you navigate through them.
+    fontawesome_icon_name                 : sync
+
+     - title                              : Find Your Community in Social Support 
+    description                           : Engage in meaningful and supportive communication with peers who understand your experience.
+    fontawesome_icon_name                 : sync
+
+     - title                              : Crisis help
     description                           : Logic for handling critical states
     fontawesome_icon_name                 : sync
 
-  - title                                 : Questionaries
-    description                           : Use verified questionaries on different relevant topics to know you situation better
+  - title                                 : Explore Yourself with Questionnaires
+    description                           : Utilize verified questionnaires on various topics to understand your situation more profoundly.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Games
-    description                           : Therapeutic games.
+  - title                                 : Heal Through Playing Games
+    description                           : Enjoy games designed to teach coping skills and enhance your mental well-being.
     fontawesome_icon_name                 : star
 
-  - title                                 : Share your data
-    description                           : Export your data reports to show your doctor
+  - title                                 : Share Your Progress 
+    description                           : Export and share your data reports with healthcare providers and loved ones for a unified approach.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   
+  - title                                 : Stay Informed 
+    description                           : Receive the latest scientific information relevant to your condition.
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+
+  - title                                 : Absolutely Free 
+    description                           :  We believe in empowering everyone with full access to all the features.
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+
+  - title                                 : Let's Grow Together
+    description                           : We're committed to enhancing our app with your feedback and insights. Join us in making a difference.
+    fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
