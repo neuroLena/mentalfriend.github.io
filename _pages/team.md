@@ -5,8 +5,9 @@ include_in_header: true
 ---
 
 # Founder
-NeuroLena
+- NeuroLena
 <br>
+
 # Developers
 - Neurolena
 - Tony Ivanova

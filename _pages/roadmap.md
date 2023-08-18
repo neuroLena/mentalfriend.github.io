@@ -12,13 +12,12 @@ include_in_header: true
 - Simple data analytics
 - Game taMUGotchi prototype
 
-
-Needed: 
+## Needed: 
 - Appstore dev account: 100$
 - Mobile dev/s
 - Web dev for landing page
 
-
+<br>
 
 # MINI version (eng/ru)
 - Trackers: procedures, tests, custom
@@ -29,7 +28,7 @@ Needed:
 - AI chat
 - Todo lists and reminders
 
-Needed: 
+## Needed: 
 - Mobile dev/s
 - UI/UX 
 - Data Scientist/Analyst
@@ -40,6 +39,7 @@ Needed:
 - QA team
 - Focus group
 
+<br>
 
 # MIDI version (all languages)
 - Trackers: suggestiing symptoms, preloading commonly tracked items
@@ -53,7 +53,7 @@ Needed:
 - Doctor & Volunteer accounts
 - Advanced taMUGotchi game 
 
-Needed: 
+## Needed: 
 - Mobile dev/s
 - P2P dev
 - UI/UX 
@@ -66,6 +66,7 @@ Needed:
 - Focus group
 - Server 
 
+<br>
 
 # MATURE version
 - Internal monetisation
@@ -73,7 +74,7 @@ Needed:
 - Improve UI/UX
 - Finetune AI on scientific mental health knowledgebase
 
-Needed: 
+## Needed: 
 - Mobile dev/s
 - UI/UX 
 - Data Scientist
@@ -82,6 +83,7 @@ Needed:
 - QA team
 - Server 
 
+<br>
 
 # MEGA version
 - ? Gamification of tracking
@@ -89,13 +91,15 @@ Needed:
 - Marketplace for Programs and selfhelp Games
 - Go Open-Source
 
-Needed: 
+## Needed: 
 - Mobile & Game dev/s
 - UI/UX 
 - Legal consultant
 - QA team
 
+<br>
+
 # ULRA version
 - Scientific Research logic & marketplace
 
-
+<br>
