@@ -25,11 +25,11 @@ your_link                                 : https://mentalfriend.org
 your_city                                 : Tel Aviv                                
 email_address                             : mentalfriendtest@gmail.com
 facebook_username                         :                                           
-instagram_username                        : mentalfriendt
-twitter_username                          : mentalfriendt
+instagram_username                        : 
+twitter_username                          : 
 github_username                           : neuroLena
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+mastodon_link                             :
 
 
 
@@ -37,10 +37,10 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 features                                  :
 
   - title                                 : Your Privacy Matters
-    description                           : With all calculations handled on your device, your information stays with you. No email or name required – simply set a nickname and password to start using the app. Your privacy is our commitment.
+    description                           : With all calculations handled on your device, your information stays with you. No email, phone number or name required! Simply set a nickname and password to start using the app. Your privacy is our commitment.
     fontawesome_icon_name                 : magic
 
-      - title                             : Customizable tracker
+  - title                                 : Customizable tracker
     description                           : Track What Matters to You - from symptoms and medications to habits and personal factors, our tracker is tailored to you.
     fontawesome_icon_name                 : magic
     
@@ -56,11 +56,11 @@ features                                  :
     description                           : AI-powered alerts for critical states and comprehensive assistance to help you navigate through them.
     fontawesome_icon_name                 : sync
 
-     - title                              : Find Your Community in Social Support 
+  - title                                 : Find Your Community in Social Support 
     description                           : Engage in meaningful and supportive communication with peers who understand your experience.
     fontawesome_icon_name                 : sync
 
-     - title                              : Crisis help
+  - title                                 : Crisis help
     description                           : Logic for handling critical states
     fontawesome_icon_name                 : sync
 
@@ -83,7 +83,7 @@ features                                  :
 
 
   - title                                 : Absolutely Free 
-    description                           :  We believe in empowering everyone with full access to all the features.
+    description                           : We believe in empowering everyone with full access to all the features.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
 
@@ -102,7 +102,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/pexels-photo.webp                  # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
