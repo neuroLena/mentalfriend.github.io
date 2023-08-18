@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Crisis Support When You Need It Most
     description                           : AI-powered alerts for critical states and comprehensive assistance to help you navigate through them.
-    fontawesome_icon_name                 : person-drowning
+    fontawesome_icon_name                 : hand
 
   - title                                 : Find Your Community and Social Support 
     description                           : Engage in meaningful and supportive communication with peers who understand your experience.
@@ -66,7 +66,7 @@ features                                  :
   
   - title                                 : Heal Through Playing Games
     description                           : Enjoy games designed to teach coping skills and enhance your mental well-being.
-    fontawesome_icon_name                 : staff-snake
+    fontawesome_icon_name                 : gamepad
 
   - title                                 : Share Your Progress 
     description                           : Export and share your data reports with healthcare providers and loved ones for a unified approach.
