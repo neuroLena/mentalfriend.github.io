@@ -8,6 +8,6 @@ include_in_header: true
 NeuroLena
 <br>
 # Developers
-Neurolena
-Tony Ivanova
+- Neurolena
+- Tony Ivanova
 <br>
